@@ -1,0 +1,193 @@
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-font-smoothing:antialiased;
+	-moz-font-smoothing:antialiased;
+	-o-font-smoothing:antialiased;
+	font-smoothing:antialiased;
+	text-rendering:optimizeLegibility;
+}
+
+body{
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 15px;
+		line-height: 1.5;
+		padding:0;
+		margin:0;
+		background-color: #ececf9;
+}
+	
+	/*Global */
+
+
+.container1{
+		width: 80%;
+		margin: 0;
+		overflow: hidden;
+}
+
+
+ul{
+		margin: 0;
+		padding: 0;
+}
+
+
+	/* Header */
+	
+header{
+		background-color: #336699;
+		color: #ffffff;
+		padding-top: 30px;
+		min-height: 70px;
+		border-bottom: #6666cc 3px solid;
+}
+	
+header a{
+		color: #ffffff;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-size: 16px;
+}
+	
+	
+header li{
+		float: right;
+		display: inline;
+		padding: 0 20px 0 20px;
+}
+	
+	
+header #branding{
+		float: left;
+		padding: 0px 0px 0px 0px;
+		margin-right: 0px;
+}
+	
+header #branding h1{
+		margin: 0;
+}
+	
+header nav{
+		float:right;
+		margin-top: 10px;
+}
+	
+header .highlight, header .current a{
+		color: #8c8cd9;
+		font-weight: bold;
+}
+	
+header a:hover {
+		color: #0099cc;
+		font-weight:bold;
+}
+
+
+
+/* Drodown Menu */
+
+
+.dropdown{
+  display: none;
+  position: relative;
+  background-color: #ececf9;
+}
+
+.dropdown a{
+	display: block;
+	text-align: left;
+}
+
+.dropbtn{
+		float: left;
+		display: inline;
+		padding: 0 20px 0 20px;
+}
+
+.dropbtn:hover .dropdown{
+	display: block;
+}
+_______________________________________________________________________________
+
+/* Members */
+
+
+
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________________
+
+
+
+	/* Footer */
+
+#showcase_2 {
+		margin: 0 0 0 0px;
+		min-height: 100px;
+		text-align:center;
+		color: #35424a;
+		border-top: #e8491d 2px solid;
+	}
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________________________________
+
+
+
+	/* About Page */
+
+
+#showcase_1 {
+		margin: 0 0 0 0px;
+		min-height: 300px;
+		text-align:center;
+		color: #35424a;
+		border-top: #e8491d 2px solid;
+	}
+
+.container{
+		width: 80%;
+		margin: 100px;
+		overflow: hidden;
+	}
+
+
+.container img{
+	margin: 0 0 0 100px;
+
+}
+
+
+___________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
